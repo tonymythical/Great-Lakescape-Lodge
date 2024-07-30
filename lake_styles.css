@@ -1,0 +1,140 @@
+﻿/* Name: Anthony Margullis
+   Date: Jul 29, 2024
+   File: lake_styles.css
+   Desc.: To show styling on page  */
+* {
+  font-family: sans-serif;
+  background-color: lightblue;
+}
+
+h1,
+h3 {
+  font-family: serif;
+}
+
+header nav ul li a {
+  background-color: rgb(34, 59, 85);
+  text-decoration: none;
+  color: rgb(253, 236, 215);
+  padding: 5px;
+  width: auto;
+}
+
+section#leftcol,
+h1,
+p {
+  background-color: rgb(253, 236, 215);
+  margin-left: 30px;
+}
+
+section#leftcol em {
+  background-color: rgb(253, 236, 215);
+}
+
+img {
+  width: 1%;
+}
+
+footer,
+footer em {
+  background-color: rgb(34, 59, 85);
+  color: rgb(253, 236, 215);
+  padding: 10px;
+  text-align: center;
+}
+
+section#rightcol {
+  background-color: rgb(124, 86, 86);
+}
+
+#rightcol,
+#rightcol h2,
+#rightcol ul,
+#rightcol li,
+#rightcol a,
+#rightcol blockquote {
+  background-color: rgb(124, 86, 86);
+  color: rgb(253, 236, 215);
+  text-decoration: none;
+  list-style-type: none;
+  text-align: left;
+}
+
+.highlight {
+  background-color: rgb(124, 86, 86);
+  text-decoration: underline;
+}
+
+.front_guy {
+  margin-left: 25px;
+}
+
+#notes {
+  border-radius: 12px;
+  border: solid;
+  background-color: rgb(82, 190, 82);
+}
+
+#notes h2,
+#notes ul,
+#notes li,
+#notes a {
+  background-color: rgb(82, 190, 82);
+  list-style-type: square;
+}
+
+#notes a {
+  color: white;
+}
+
+#notes h2 {
+  margin-left: 25px;
+}
+
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 550;
+}
+
+#events {
+  border-radius: 12px;
+  border: solid;
+  background-color: rgb(112, 112, 228);
+}
+
+#events h2,
+#events h3,
+#events p {
+  background-color: rgb(112, 112, 228);
+}
+
+#events h3 {
+  font-weight: 599;
+}
+
+#events h2,
+#events h3 {
+  margin-left: 15px;
+}
+
+section {
+  height: 1055px;
+}
+
+#rightcol .first {
+  color: white;
+  font-weight: 700;
+}
+
+#rightcol h2,
+#rightcol ul,
+#rightcol li,
+#rightcol a,
+#rightcol blockquote {
+  padding-left: 25px;
+}
+
+#rightcol h2 {
+  font-size: 35px;
+}
