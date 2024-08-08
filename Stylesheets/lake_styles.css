@@ -101,6 +101,7 @@ h2 {
   border-radius: 12px;
   border: solid;
   background-color: rgb(112, 112, 228);
+  margin-bottom: 5px;
 }
 
 #events h2,
